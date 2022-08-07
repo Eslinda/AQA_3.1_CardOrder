@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/0nw4ydu8gb02jscq/branch/main?svg=true)](https://ci.appveyor.com/project/Eslinda/aqa-3-1-cardorder/branch/main)
