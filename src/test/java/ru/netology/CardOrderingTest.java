@@ -28,7 +28,7 @@ public class CardOrderingTest {
     }
 
     @Test
-    void test() {
+    void shouldTestPositive() {
         driver.get("http://localhost:9999/");
         driver.findElement(By.cssSelector("span[data-test-id='name'] input")).sendKeys("Иван Петров");
         driver.findElement(By.cssSelector("span[data-test-id='phone'] input")).sendKeys("+79110000000");
